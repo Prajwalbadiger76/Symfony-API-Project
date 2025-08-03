@@ -1,0 +1,13 @@
+# config/routes.yaml
+
+# Route to fetch all users
+get_users:
+    path: /users
+    controller: App\Controller\UserController::getUsers
+    methods: GET
+
+# Route to add a new user
+add_user:
+    path: /users
+    controller: App\Controller\UserController::addUser
+    methods: POST

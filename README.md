@@ -1,4 +1,4 @@
-#Symfony-API-Project
+Symfony-API-Project
 This is a mini project built using Symfony and PHP with PostgreSQL database.
 
 Features:
